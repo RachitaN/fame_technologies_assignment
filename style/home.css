@@ -1,0 +1,27 @@
+section{
+    background-color: #5CDB95;
+    color:#05386B;
+    display: flex;
+    height: 150vh;
+    justify-content: center;
+    align-items: center;
+}
+.form-group{
+    font-weight: bold;
+}
+.divf{
+    box-shadow: 10px 10px 5px gray;
+}
+.btn{
+    background-color:#05386B;
+    color:#5CDB95;
+}
+.container1{
+    align-items: left;
+    justify-content: left;
+    margin-top: 5px;
+}
+.profilepic{
+    height:200px;
+    width:200px;
+}
