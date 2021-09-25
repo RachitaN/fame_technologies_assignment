@@ -2,7 +2,7 @@ section{
     background-color: #5CDB95;
     color:#05386B;
     display: flex;
-    height: 150vh;
+    height: 140vh;
     justify-content: center;
     align-items: center;
 }
@@ -24,4 +24,14 @@ section{
 .profilepic{
     height:200px;
     width:200px;
+}
+.mainImg {
+    position:fixed;
+    top:-75px;
+    left:-60px;
+    width: 90vh;
+    height: 80vh;
+    margin-left: -10px;
+    float: right;
+    z-index: 0;
 }

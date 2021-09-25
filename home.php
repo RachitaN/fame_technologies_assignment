@@ -49,6 +49,9 @@
                 </div>
             </form>
         </div>
+        <div class="col-12 col-sm-4">
+                   <img class=" mainImg " src="https://images.unsplash.com/photo-1442524986896-a2cedd8cd26a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=386&q=80" alt="mainImage">
+            </div>
     </section>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
